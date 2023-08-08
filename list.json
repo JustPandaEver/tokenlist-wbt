@@ -20,6 +20,14 @@
   {
   "chainId":2625,
   "address":"0x75BaE36f5102C3330B1Eac366630D02d3A8796b3",
+  "name":"Wrapped WBT TESTNET",
+  "symbol":"WWBT",
+  "decimals":18,
+  "logoURI":"https://assets.coingecko.com/coins/images/27045/thumb/wbt_token.png?1667923752"
+  },
+  {
+  "chainId":1875,
+  "address":"0x9e26C8Cf0DCDA6542604aA560BD9cf8f6a82b8b1",
   "name":"Wrapped WBT",
   "symbol":"WWBT",
   "decimals":18,
